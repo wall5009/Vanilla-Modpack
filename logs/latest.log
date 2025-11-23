@@ -1,0 +1,207 @@
+[22Nov2025 23:15:51.359] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, bor_jiden, --version, neoforge-21.1.215, --gameDir, C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack, --assetsDir, C:\Users\Roland Lindenfelser\curseforge\minecraft\Install\assets, --assetIndex, 17, --uuid, bae452fac29945d4825d47baf5a9fa71, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, NDkwZmQwNjQtMzU0Ni00YzI1LWE5NzAtM2NlMjM3Y2IyNTlk, --xuid, 2535415921803205, --userType, msa, --versionType, release, --width, 2560, --height, 1369, --quickPlayPath, C:\Users\Roland Lindenfelser\curseforge\minecraft\Install\quickPlay\java\1763882149675.json, --fml.neoForgeVersion, 21.1.215, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient]
+[22Nov2025 23:15:51.362] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[22Nov2025 23:15:51.364] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.7 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[22Nov2025 23:15:51.548] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[22Nov2025 23:15:51.707] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[22Nov2025 23:15:51.875] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[22Nov2025 23:15:52.066] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Roland%20Lindenfelser/curseforge/minecraft/Install/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%23121!/ Service=ModLauncher Env=CLIENT
+[22Nov2025 23:15:52.352] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 4060/PCIe/SSE2 GL version 4.6.0 NVIDIA 581.08, NVIDIA Corporation
+[22Nov2025 23:15:52.511] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "client-1.21.1-20240808.144430-srg.jar" [locator: production client provider +net.neoforged:neoforge:21.1.215:client]
+[22Nov2025 23:15:52.553] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.215-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[C:\Users\Roland Lindenfelser\curseforge\minecraft\Install\libraries\net\neoforged\neoforge\21.1.215\neoforge-21.1.215-universal.jar]], reader: mod manifest]
+[22Nov2025 23:15:52.564] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "bettercombat-neoforge-2.2.5+1.21.1.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.568] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.572] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ColdSweat-2.3.12.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.577] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "firstperson-neoforge-2.6.0-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.582] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "GlitchCore-neoforge-1.21.1-2.1.0.0.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.587] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kubejs-neoforge-2101.7.2-build.321.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.593] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "kubejstweaks-1.0.4.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.599] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "lootjs-neoforge-1.21.1-3.6.0.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.602] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "notenoughanimations-neoforge-1.10.6-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.605] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "player-animation-lib-forge-2.0.1+1.21.1.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.609] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ProbeJS-7.7.2.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.611] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "rhino-2101.2.7-build.77.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.615] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.618] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ThirstWasTaken-1.21.1-2.1.5.jar" [locator: {mods folder locator at C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack\mods}, reader: mod manifest]
+[22Nov2025 23:15:52.900] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 11 dependencies adding them to mods collection
+[22Nov2025 23:15:52.900] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.0.jar" [parent: neoforge-21.1.215-universal.jar, locator: jarinjar, reader: mod manifest]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "vineflower-1.10.1.jar" [parent: ProbeJS-7.7.2.jar, locator: jarinjar]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "MixinSquared-0.3.3.jar" [parent: mixinsquared-neoforge-0.3.3.jar, locator: jarinjar]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "javaparser-core-3.24.8.jar" [parent: ProbeJS-7.7.2.jar, locator: jarinjar]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "animated-gif-lib-for-java-animated-gif-lib-1.7.jar" [parent: kubejs-neoforge-2101.7.2-build.321.jar, locator: jarinjar]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TRender-1.0.9-1.21.1-neoforge-SNAPSHOT.jar" [parent: firstperson-neoforge-2.6.0-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[22Nov2025 23:15:52.901] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "javaparser-symbol-solver-core-3.24.8.jar" [parent: ProbeJS-7.7.2.jar, locator: jarinjar]
+[22Nov2025 23:15:52.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "tiny-java-server-1.0.0-build.33.jar" [parent: kubejs-neoforge-2101.7.2-build.321.jar, locator: jarinjar]
+[22Nov2025 23:15:52.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.215.jar" [parent: neoforge-21.1.215-universal.jar, locator: jarinjar, reader: mod manifest]
+[22Nov2025 23:15:52.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinsquared-neoforge-0.3.3.jar" [parent: kubejstweaks-1.0.4.jar, locator: jarinjar, reader: mod manifest]
+[22Nov2025 23:15:52.902] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "TRansition-1.0.10-1.21.1-neoforge-SNAPSHOT.jar" [parent: firstperson-neoforge-2.6.0-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[22Nov2025 23:15:52.904] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Better Combat 2.2.5+1.21.1 (bettercombat)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Cold Sweat 2.3.12 (cold_sweat)
+		FirstPerson 2.6.0 (firstperson)
+		GlitchCore 2.1.0.0 (glitchcore)
+		KubeJS 2101.7.2-build.321 (kubejs)
+		KubeJS Tweaks 1.0.4 (kubejstweaks)
+		LootJS 1.21.1-3.6.0 (lootjs)
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.215 (neoforge)
+		NotEnoughAnimations 1.10.6 (notenoughanimations)
+		Player Animator 2.0.1+1.21.1 (playeranimator)
+		ProbeJS 7.7.2 (probejs)
+		Rhino 2101.2.7-build.77 (rhino)
+		Serene Seasons 10.1.0.3 (sereneseasons)
+		Thirst Was Taken 1.21.1-2.1.5 (thirst)
+		TRansition 1.0.10 (transition)
+		TRender 1.0.9 (trender)
+[22Nov2025 23:15:53.404] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Nov2025 23:15:53.409] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[22Nov2025 23:15:53.428] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, neoforge-21.1.215, --gameDir, C:\Users\Roland Lindenfelser\curseforge\minecraft\Instances\Vanilla-Modpack, --assetsDir, C:\Users\Roland Lindenfelser\curseforge\minecraft\Install\assets, --uuid, bae452fac29945d4825d47baf5a9fa71, --username, bor_jiden, --assetIndex, 17, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, NDkwZmQwNjQtMzU0Ni00YzI1LWE5NzAtM2NlMjM3Y2IyNTlk, --xuid, 2535415921803205, --userType, msa, --versionType, release, --width, 2560, --height, 1369, --quickPlayPath, C:\Users\Roland Lindenfelser\curseforge\minecraft\Install\quickPlay\java\1763882149675.json]
+[22Nov2025 23:15:53.479] [main/WARN] [mixin/]: Reference map 'thirst.refmap.json' for thirst.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.480] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.481] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.481] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.482] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.497] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.497] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.497] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.497] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.NativeJavaMethodMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.77]
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.ContextFactoryMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.81]
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ServerPackMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipesKubeEventMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeSchemaStorageMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeManagerMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.KubeRecipeMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.498] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin2 will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.499] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.499] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ClientAssetPacksMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.499] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.499] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.499] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.500] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.ContextMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.502] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.502] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.502] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.503] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.NativeJavaMethodMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.77]
+[22Nov2025 23:15:53.503] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.ContextFactoryMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.81]
+[22Nov2025 23:15:53.503] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ServerPackMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.503] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipesKubeEventMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.503] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeSchemaStorageMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.504] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeManagerMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.504] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.KubeRecipeMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.504] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin2 will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.504] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.505] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ClientAssetPacksMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.505] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.505] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.505] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.506] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.ContextMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.507] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.507] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.507] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.507] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.NativeJavaMethodMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.77]
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.mixin.core.main.ContextFactoryMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.74,2101.2.7-build.81]
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ServerPackMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipesKubeEventMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeSchemaStorageMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.RecipeManagerMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.508] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.KubeRecipeMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin2 will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.JsonRecipeSchemaLoaderMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs72.mixin.core.main.ClientAssetPacksMixin will be loaded as it matches versions: 2101.7.2-build.321 in [2101.7.2,2101.7.3)
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.VariableTypeInfo2Mixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypesMixin will be loaded as it matches versions: 7.7.2 in 7.5.1
+[22Nov2025 23:15:53.509] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.TypeConsolidatorMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.510] [main/INFO] [KubeJS Tweaks/]: Conditional Mixin dev.uncandango.kubejstweaks.kubejs.kjs71.mixin.core.main.ContextMixin will be loaded as it matches versions: 2101.2.7-build.77 in [2101.2.7-build.77,2101.2.7-build.77]
+[22Nov2025 23:15:53.514] [main/WARN] [mixin/]: Reference map 'cold_sweat.mixin-refmap.json' for cold_sweat.mixin.json could not be read. If this is a development environment you can ignore this message
+[22Nov2025 23:15:53.708] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/SyncedBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.SyncedBlockEntity)
+[22Nov2025 23:15:53.708] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.SyncedBlockEntity was not found thirst.mixins.json:accessors.farmersdelight.SyncedBlockEntityAccessor from mod thirst
+[22Nov2025 23:15:53.709] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/processing/basin/BasinRecipe (java.lang.ClassNotFoundException: com.simibubi.create.content.processing.basin.BasinRecipe)
+[22Nov2025 23:15:53.709] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.processing.basin.BasinRecipe was not found thirst.mixins.json:create.MixinBasinRecipe from mod thirst
+[22Nov2025 23:15:53.710] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/FluidDrainingBehaviour (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.FluidDrainingBehaviour)
+[22Nov2025 23:15:53.710] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.FluidDrainingBehaviour was not found thirst.mixins.json:create.MixinFluidDrainingBehaviour from mod thirst
+[22Nov2025 23:15:53.711] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/GenericItemEmptying (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.GenericItemEmptying)
+[22Nov2025 23:15:53.711] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.GenericItemEmptying was not found thirst.mixins.json:create.MixinGenericItemEmptying from mod thirst
+[22Nov2025 23:15:53.712] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/transfer/GenericItemFilling (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.transfer.GenericItemFilling)
+[22Nov2025 23:15:53.712] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.fluids.transfer.GenericItemFilling was not found thirst.mixins.json:create.MixinGenericItemFilling from mod thirst
+[22Nov2025 23:15:53.713] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/api/equipment/goggles/IHaveGoggleInformation (java.lang.ClassNotFoundException: com.simibubi.create.api.equipment.goggles.IHaveGoggleInformation)
+[22Nov2025 23:15:53.713] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.api.equipment.goggles.IHaveGoggleInformation was not found thirst.mixins.json:create.MixinIHaveGoggleInformation from mod thirst
+[22Nov2025 23:15:53.714] [main/WARN] [mixin/]: Error loading class: snownee/jade/api/view/FluidView (java.lang.ClassNotFoundException: snownee.jade.api.view.FluidView)
+[22Nov2025 23:15:53.714] [main/WARN] [mixin/]: @Mixin target snownee.jade.api.view.FluidView was not found thirst.mixins.json:jade.MixinFluidView from mod thirst
+[22Nov2025 23:15:53.715] [main/WARN] [mixin/]: Error loading class: toughasnails/item/EmptyCanteenItem (java.lang.ClassNotFoundException: toughasnails.item.EmptyCanteenItem)
+[22Nov2025 23:15:53.715] [main/WARN] [mixin/]: @Mixin target toughasnails.item.EmptyCanteenItem was not found thirst.mixins.json:toughasnails.MixinEmptyCanteenItem from mod thirst
+[22Nov2025 23:15:53.716] [main/WARN] [mixin/]: Error loading class: toughasnails/config/ThirstConfig (java.lang.ClassNotFoundException: toughasnails.config.ThirstConfig)
+[22Nov2025 23:15:53.716] [main/WARN] [mixin/]: @Mixin target toughasnails.config.ThirstConfig was not found thirst.mixins.json:toughasnails.MixinServerConfig from mod thirst
+[22Nov2025 23:15:53.717] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHandler (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHandler)
+[22Nov2025 23:15:53.717] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHandler was not found thirst.mixins.json:toughasnails.MixinThirstHandler from mod thirst
+[22Nov2025 23:15:53.718] [main/WARN] [mixin/]: Error loading class: toughasnails/thirst/ThirstHelperImpl (java.lang.ClassNotFoundException: toughasnails.thirst.ThirstHelperImpl)
+[22Nov2025 23:15:53.718] [main/WARN] [mixin/]: @Mixin target toughasnails.thirst.ThirstHelperImpl was not found thirst.mixins.json:toughasnails.MixinThirstHelperImpl from mod thirst
+[22Nov2025 23:15:53.740] [main/WARN] [mixin/]: Error loading class: toughasnails/client/handler/TooltipHandler (java.lang.ClassNotFoundException: toughasnails.client.handler.TooltipHandler)
+[22Nov2025 23:15:53.741] [main/WARN] [mixin/]: @Mixin target toughasnails.client.handler.TooltipHandler was not found thirst.mixins.json:toughasnails.MixinTooltipHandler from mod thirst
+[22Nov2025 23:15:53.820] [main/WARN] [mixin/]: Error loading class: net/mehvahdjukaar/moonlight/api/platform/neoforge/PlatHelperImpl (java.lang.ClassNotFoundException: net.mehvahdjukaar.moonlight.api.platform.neoforge.PlatHelperImpl)
+[22Nov2025 23:15:53.821] [main/WARN] [mixin/]: @Mixin target net.mehvahdjukaar.moonlight.api.platform.neoforge.PlatHelperImpl was not found kubejstweaks.mixins.json:main.PlatHelperImplMixin from mod kubejstweaks
+[22Nov2025 23:15:53.996] [main/WARN] [mixin/]: Error loading class: com/mrbysco/spoiled/config/SpoiledConfigCache (java.lang.ClassNotFoundException: com.mrbysco.spoiled.config.SpoiledConfigCache)
+[22Nov2025 23:15:53.997] [main/WARN] [mixin/]: @Mixin target com.mrbysco.spoiled.config.SpoiledConfigCache was not found cold_sweat.mixin.json:compat.MixinSpoiledIcebox$ContainerModifier from mod cold_sweat
+[22Nov2025 23:15:54.225] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[22Nov2025 23:15:55.883] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 359 milliseconds
+[22Nov2025 23:15:59.978] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Roland%20Lindenfelser/curseforge/minecraft/Install/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23202!/assets/.mcassetsroot' uses unexpected schema
+[22Nov2025 23:15:59.979] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Roland%20Lindenfelser/curseforge/minecraft/Install/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23202!/data/.mcassetsroot' uses unexpected schema
+[22Nov2025 23:16:00.000] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22Nov2025 23:16:00.011] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: bor_jiden
+[22Nov2025 23:16:00.156] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[22Nov2025 23:16:00.435] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.215, for MC 1.21.1
+[22Nov2025 23:16:00.477] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[22Nov2025 23:16:00.477] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[22Nov2025 23:16:00.487] [modloading-worker-0/ERROR] [Cold Sweat/]: Cold Sweat requires thirst 0.0NONE or higher for compat to be enabled!
+[22Nov2025 23:16:00.634] [modloading-worker-0/INFO] [KubeJS/]: Loading vanilla registries...
+[22Nov2025 23:16:00.654] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[22Nov2025 23:16:00.656] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[22Nov2025 23:16:00.661] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration does not have required mod 'architectury' loaded, skipping
+[22Nov2025 23:16:00.661] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejstweaks
+[22Nov2025 23:16:00.667] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source lootjs
+[22Nov2025 23:16:00.668] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source cold_sweat
+[22Nov2025 23:16:00.669] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source probejs
+[22Nov2025 23:16:00.671] [modloading-worker-0/INFO] [KubeJS/]: Done in 16.21 ms
+[22Nov2025 23:16:00.894] [modloading-worker-0/WARN] [mixin/]: Method overwrite conflict for shouldConvert in kubejstweaks-kjs71.mixins.json:main.VariableTypeInfo2Mixin from mod kubejstweaks, previously written by dev.uncandango.kubejstweaks.mixin.core.main.VariableTypeInfo2Mixin. Skipping method.
+[22Nov2025 23:16:01.155] [modloading-worker-0/INFO] [KubeJS Startup/]: startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[22Nov2025 23:16:01.157] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:main.js in 0.028 s
+[22Nov2025 23:16:01.158] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.48 s with 0 errors and 0 warnings
+[22Nov2025 23:16:01.185] [modloading-worker-0/INFO] [KubeJS Client/]: client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[22Nov2025 23:16:01.186] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded script client_scripts:main.js in 0.001 s
+[22Nov2025 23:16:01.186] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded 1/1 KubeJS client scripts in 0.027 s with 0 errors and 0 warnings
+[22Nov2025 23:16:01.189] [modloading-worker-0/INFO] [KubeJS Startup/]: Validated 0 files in kubejs/assets/ in 0ms
+[22Nov2025 23:16:01.189] [modloading-worker-0/INFO] [KubeJS Startup/]: Validated 0 files in kubejs/data/ in 0ms
+[22Nov2025 23:16:02.292] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, KubeJS Virtual Resource Pack [Before Mods, assets], mod_resources, mod/thirst, mod/rhino, mod/glitchcore, mod/sereneseasons, mod/kubejstweaks, mod/lootjs, mod/playeranimator, mod/transition, mod/cold_sweat, mod/firstperson, mod/trender, mod/probejs, mod/cloth_config, mod/bettercombat, mod/notenoughanimations, mod/neoforge, KubeJS Virtual Resource Pack [Internal, assets], KubeJS Virtual Resource Pack [After Mods, assets], KubeJS File Resource Pack [assets], mod/kubejs, KubeJS Virtual Resource Pack [Last, assets]
+[22Nov2025 23:16:02.378] [Render thread/INFO] [KubeJS Client/]: Client resource reload complete!
+[22Nov2025 23:16:02.384] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[22Nov2025 23:16:02.509] [Worker-Main-2/INFO] [FirstPersonModel/]: Loading FirstPerson Mod
+[22Nov2025 23:16:02.524] [Worker-Main-10/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[22Nov2025 23:16:02.897] [Worker-Main-2/INFO] [KubeJS Client/]: VSCode 1.106.2 detected
+[22Nov2025 23:16:02.956] [Render thread/INFO] [KubeJS/]: Started the local web server at http://localhost:61423
+[22Nov2025 23:16:03.729] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[22Nov2025 23:16:03.729] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[22Nov2025 23:16:03.811] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on ASUS PB278 (NVIDIA High Definition Audio)
+[22Nov2025 23:16:03.812] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[22Nov2025 23:16:03.881] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[22Nov2025 23:16:03.890] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[22Nov2025 23:16:03.891] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[22Nov2025 23:16:03.892] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[22Nov2025 23:16:03.892] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[22Nov2025 23:16:03.895] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[22Nov2025 23:16:03.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[22Nov2025 23:16:03.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[22Nov2025 23:16:03.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[22Nov2025 23:16:03.930] [Render thread/WARN] [mixin/]: Method overwrite conflict for getCloak in playerAnimator-common.mixins.json:PlayerModelAccessor from mod playeranimator, previously written by dev.tr7zw.firstperson.mixins.PlayerModelMixin. Skipping method.
+[22Nov2025 23:16:03.986] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[22Nov2025 23:16:03.987] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[22Nov2025 23:16:03.988] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[22Nov2025 23:16:03.989] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[22Nov2025 23:16:03.989] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[22Nov2025 23:16:04.013] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[22Nov2025 23:16:04.133] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[22Nov2025 23:16:04.157] [Render thread/INFO] [FirstPersonModel/]: Loading PlayerAnimator support!
+[22Nov2025 23:16:04.158] [Render thread/INFO] [FirstPersonModel/]: Loaded Vanilla Hands items: []
+[22Nov2025 23:16:04.158] [Render thread/INFO] [FirstPersonModel/]: Loaded Auto Disable items: []
+[22Nov2025 23:16:08.346] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
