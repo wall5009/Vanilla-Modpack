@@ -1,17 +1,17 @@
-[23:16:00] [INIT] KubeJS 2101.7.2-build.321; MC 2101 NeoForge
-[23:16:00] [INIT] Loaded plugins:
-[23:16:00] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[23:16:00] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
-[23:16:00] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTPlugin
-[23:16:00] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTPlugin
-[23:16:00] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTProbeJSPlugin
-[23:16:00] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTProbeJSPlugin
-[23:16:00] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:16:00] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[23:16:00] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
-[23:16:00] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
-[23:16:01] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
-[23:16:01] [INFO] Loaded script startup_scripts:main.js in 0.028 s
-[23:16:01] [INFO] Loaded 1/1 KubeJS startup scripts in 0.48 s with 0 errors and 0 warnings
-[23:16:01] [INFO] Validated 0 files in kubejs/assets/ in 0ms
-[23:16:01] [INFO] Validated 0 files in kubejs/data/ in 0ms
+[23:28:36] [INIT] KubeJS 2101.7.2-build.321; MC 2101 NeoForge
+[23:28:36] [INIT] Loaded plugins:
+[23:28:36] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[23:28:36] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[23:28:36] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTPlugin
+[23:28:36] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTPlugin
+[23:28:36] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTProbeJSPlugin
+[23:28:36] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTProbeJSPlugin
+[23:28:36] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:28:36] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[23:28:36] [INIT] - moe.wolfgirl.probejs.plugin.BuiltinProbeJSPlugin
+[23:28:36] [INIT] - moe.wolfgirl.probejs.plugin.ProbeJSKJSPlugin
+[23:28:36] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[23:28:36] [INFO] Loaded script startup_scripts:main.js in 0.024 s
+[23:28:36] [INFO] Loaded 1/1 KubeJS startup scripts in 0.448 s with 0 errors and 0 warnings
+[23:28:36] [INFO] Validated 2 files in kubejs/assets/ in 2ms
+[23:28:36] [INFO] Validated 0 files in kubejs/data/ in 0ms
